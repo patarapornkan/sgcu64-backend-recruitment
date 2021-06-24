@@ -70,3 +70,11 @@
 # Applicant Section
 
 ตั้งแต่ส่วนนี้ลงไป เป็นส่วนที่ผู้สมัครสามารถแก้ไขได้ตามอัธยาศัย ซึ่งอาจจะเป็นข้อสันนิษฐานหรือไอเดียเพิ่มเติมก็ได้
+
+Getting Started
+------------
+* Install python
+* To run the program: 
+```zsh
+     python seven_segments.py
+```
