@@ -98,3 +98,29 @@ Please input any number: 3
 # Applicant Section
 
 ตั้งแต่ส่วนนี้ลงไป เป็นส่วนที่ผู้สมัครสามารถแก้ไขได้ตามอัธยาศัย ซึ่งอาจจะเป็นข้อสันนิษฐานหรือไอเดียเพิ่มเติมก็ได้
+
+Getting Started
+------------
+* Install npm
+  ```zsh
+     pip install npm
+  ```
+* Install mongo on your machine
+  ```zsh
+    pip install mongo
+  ```
+* Download the dependencies
+  ```zsh
+    npm install
+  ```
+* To run the program: 
+  ```zsh
+    node index.js
+  ```
+
+### Assumption:
+the phone number is correct and in the right format, so there is no need for validation
+
+### Additional Idea:
+create an additional option to quit the program
+
